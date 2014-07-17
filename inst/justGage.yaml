@@ -1,0 +1,9 @@
+dependencies:
+  - name: raphael
+    version: 2.1.2
+    src: "lib/raphael-2.1.2"
+    script: raphael.js
+  - name: justgage
+    version: 1.0.1
+    src: "lib/justgage-1.0.1"
+    script: justgage.1.0.1.min.js
