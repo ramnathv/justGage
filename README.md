@@ -24,7 +24,7 @@ k1 = justgage('My Gauge', 20, 0, 100, label = 'New')
 k1
 ```
 
-![knob1](http://i.imgur.com/2wekMlK.png)
+![justgage1](http://i.imgur.com/8PpAEOT.png)
 
 We can also use it in a Shiny application.
 
@@ -49,7 +49,7 @@ server = function(input, output, session){
 runApp(list(ui = ui, server = server))
 ```
 
-![knob2](http://i.imgur.com/f9p07hI.png)
+![justgage2](http://i.imgur.com/hLiSAW2.png)
 
 ### See Also
 
