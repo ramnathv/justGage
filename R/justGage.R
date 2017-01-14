@@ -1,5 +1,5 @@
 #' @export
-justgage <- function(title, value, min, max, label = NULL, 
+justGage <- function(title, value, min, max, label = NULL, 
     width = NULL, height = NULL, ...){
   options = list(title = title, value = value, min = min, max = max,
     label = label, width = width, height = height, ...               
